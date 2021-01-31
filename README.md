@@ -6,5 +6,5 @@ The program should print the numbers 1 to 100. For multiples of 3, print â€œCLXâ
 
 ## GETTING STARTED
 1. Download or Clone the GitHub Repo on your local machine
-2. Run npm install
+2. Run npm install 
 3. Type "node index.js" on the command line to see result
